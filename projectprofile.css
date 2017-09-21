@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+/* {
+    border: 1px solid red;
+}*/
+
+body {
+    background-color: #000000;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+}
+
+.my-background {
+min-height: 80vh;
+background-image: url('monstercat.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+}
+
+.my-img {
+    display: block;
+    width: 200px;
+    border-radius: 50%;
+    margin: -170px auto 10px auto;
+}
+h3 {
+    font-weight: bold;
+}
+.my-bg {
+    background-color: white;
+}
+.card {
+    min-height: 450px;
+}
+.my-list {
+    max-width: 200px;
+}
+.img-min {
+    min-height: 220px;
+}
+.my-card {
+    border: 1px solid grey;
+}
+
